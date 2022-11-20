@@ -26,6 +26,7 @@ body {
     background-color: blueviolet;
     align-items: center;
     justify-content: center;
+    overflow: scroll;
 }
 
 #increment-btn {
